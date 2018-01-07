@@ -1,0 +1,45 @@
+// DM Environment file for SimpleStation.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "sounds"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "test.dmm"
+#include "code\defines.dm"
+#include "code\Overlays.dm"
+#include "code\mob\AI.dm"
+#include "code\mob\critter.dm"
+#include "code\mob\hud.dm"
+#include "code\mob\mob.dm"
+#include "code\mob\OOC.dm"
+#include "code\mob\roleplay.dm"
+#include "code\modules\effects.dm"
+#include "code\modules\master_controller.dm"
+#include "code\modules\SAS.dm"
+#include "code\modules\setup.dm"
+#include "code\modules\sounds.dm"
+#include "code\obj\items\clothes.dm"
+#include "code\obj\items\food.dm"
+#include "code\obj\items\items.dm"
+#include "code\obj\items\weapon.dm"
+#include "code\obj\machinery\atmos-machinery.dm"
+#include "code\obj\machinery\doors.dm"
+#include "code\obj\machinery\machinery.dm"
+#include "code\obj\machinery\power.dm"
+#include "code\obj\structures\closets.dm"
+#include "code\obj\structures\decals.dm"
+#include "code\obj\structures\structures.dm"
+#include "code\obj\structures\turfs.dm"
+// END_INCLUDE
+

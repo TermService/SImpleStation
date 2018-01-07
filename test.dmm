@@ -1,0 +1,94 @@
+"aa" = (/turf/space,/area)
+"ab" = (/turf/simulated/wall,/area)
+"ac" = (/obj/decals/space_sign,/turf/simulated/wall,/area)
+"ad" = (/turf/simulated/wall/window,/area)
+"ae" = (/obj/machinery/doors/futuristic{tag = "icon-futuristic_closed (EAST)"; icon_state = "futuristic_closed"; dir = 4},/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/turf/simulated/floor/plating,/area)
+"af" = (/obj/structures/cable{tag = "icon-cable (WEST)"; icon_state = "cable"; dir = 8},/turf/simulated/floor/plating,/area)
+"ag" = (/obj/structures/cable{tag = "icon-cable (WEST)"; icon_state = "cable"; dir = 8},/obj/machinery/atmos/vent,/turf/simulated/floor/plating,/area)
+"ah" = (/obj/structures/cable{tag = "icon-cable (SOUTHWEST)"; icon_state = "cable"; dir = 10},/turf/simulated/floor/plating,/area)
+"ai" = (/obj/structures/cable,/obj/machinery/doors/futuristic,/turf/simulated/floor/plating,/area)
+"aj" = (/obj/items/clothes/jan_suit,/obj/structures/closets/closet,/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"ak" = (/obj/items/clothes/sec_suit,/obj/structures/closets/closet,/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"al" = (/obj/items/clothes/eng_suit,/obj/structures/closets/closet,/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"am" = (/obj/machinery/atmos/connector,/obj/structures/cable{tag = "icon-cable (NORTH)"; icon_state = "cable"; dir = 1},/turf/simulated/floor/plating,/area)
+"an" = (/turf/simulated/floor,/area)
+"ao" = (/obj/machinery/atmos/canister/oxygen,/turf/simulated/floor,/area)
+"ap" = (/obj/structures/cable,/obj/machinery/atmos/connector,/turf/simulated/floor,/area)
+"aq" = (/obj/structures/cable,/turf/simulated/floor,/area)
+"ar" = (/obj/machinery/APC,/turf/simulated/wall,/area)
+"as" = (/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"at" = (/obj/items/weapon/tools/crowbar,/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"au" = (/obj/structures/cable{tag = "icon-cable (NORTHEAST)"; icon_state = "cable"; dir = 5},/turf/simulated/floor/plating,/area)
+"av" = (/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/turf/simulated/floor,/area)
+"aw" = (/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/obj/structures/cable{tag = "icon-cable (SOUTHEAST)"; icon_state = "cable"; dir = 6},/mob/living/critter/monkey,/turf/simulated/floor,/area)
+"ax" = (/obj/items/clothes/eng_suit,/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/turf/simulated/floor,/area)
+"ay" = (/obj/structures/cable{tag = "icon-cable (NORTHEAST)"; icon_state = "cable"; dir = 5},/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/turf/simulated/floor,/area)
+"az" = (/obj/structures/cable{tag = "icon-cable (WEST)"; icon_state = "cable"; dir = 8},/obj/machinery/doors/futuristic{tag = "icon-futuristic_closed (EAST)"; icon_state = "futuristic_closed"; dir = 4},/turf/simulated/floor,/area)
+"aA" = (/obj/structures/cable{tag = "icon-cable (SOUTHWEST)"; icon_state = "cable"; dir = 10},/obj/structures/cable{tag = "icon-cable (SOUTHEAST)"; icon_state = "cable"; dir = 6},/obj/structures/cable,/turf/simulated/floor,/area)
+"aB" = (/obj/structures/cable{tag = "icon-cable (WEST)"; icon_state = "cable"; dir = 8},/turf/simulated/floor,/area)
+"aC" = (/obj/structures/cable{tag = "icon-cable (NORTHWEST)"; icon_state = "cable"; dir = 9},/obj/machinery/doors/futuristic{tag = "icon-futuristic_closed (EAST)"; icon_state = "futuristic_closed"; dir = 4},/turf/simulated/floor{tag = "icon-blue"; icon_state = "blue"},/area)
+"aD" = (/obj/items/weapon/tools/screwdriver,/turf/simulated/floor,/area)
+"aE" = (/obj/machinery/atmos/vent,/obj/structures/cable,/turf/simulated/floor/plating,/area)
+"aF" = (/turf/simulated/floor/plating,/area)
+"aG" = (/obj/items/devices/analyzer,/turf/simulated/floor,/area)
+"aH" = (/obj/machinery/atmos/cooler,/turf/simulated/floor,/area)
+"aI" = (/obj/items/weapon/tools/wrench,/turf/simulated/floor,/area)
+"aJ" = (/obj/items/weapon/tools/crowbar,/turf/simulated/floor,/area)
+"aK" = (/obj/machinery/atmos/heater,/turf/simulated/floor,/area)
+"aL" = (/obj/structures/cable{tag = "icon-cable (NORTH)"; icon_state = "cable"; dir = 1},/obj/machinery/doors/futuristic,/turf/simulated/floor/plating,/area)
+"aM" = (/obj/structures/cable{tag = "icon-cable (NORTH)"; icon_state = "cable"; dir = 1},/turf/simulated/floor/plating,/area)
+"aN" = (/obj/machinery/generator,/turf/simulated/floor/plating,/area)
+"aO" = (/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/turf/simulated/floor/plating,/area)
+"aP" = (/obj/structures/cable{tag = "icon-cable (EAST)"; icon_state = "cable"; dir = 4},/obj/machinery/doors/futuristic{tag = "icon-futuristic_closed (EAST)"; icon_state = "futuristic_closed"; dir = 4},/turf/simulated/floor/plating,/area)
+"aQ" = (/obj/structures/cable{tag = "icon-cable (NORTHWEST)"; icon_state = "cable"; dir = 9},/obj/structures/cable{tag = "icon-cable (NORTH)"; icon_state = "cable"; dir = 1},/turf/simulated/floor/plating,/area)
+"aR" = (/obj/items/weapon/tools/screwdriver,/turf/simulated/floor/plating,/area)
+"aS" = (/obj/structures/cable{tag = "icon-cable (WEST)"; icon_state = "cable"; dir = 8},/obj/machinery/doors/futuristic{tag = "icon-futuristic_closed (EAST)"; icon_state = "futuristic_closed"; dir = 4},/turf/simulated/floor/plating,/area)
+"aT" = (/obj/structures/cable{tag = "icon-cable (NORTHWEST)"; icon_state = "cable"; dir = 9},/turf/simulated/floor/plating,/area)
+"aU" = (/obj/items/food/poop,/obj/items/food/poop,/obj/structures/closets/closet,/turf/simulated/floor/plating,/area)
+"aV" = (/obj/items/food/poop,/obj/items/food/poop,/obj/items/food/poop,/obj/structures/closets/closet,/turf/simulated/floor/plating,/area)
+"aW" = (/obj/items/battery,/obj/items/battery,/obj/items/devices/analyzer,/obj/structures/closets/closet,/turf/simulated/floor/plating,/area)
+"aX" = (/obj/items/weapon/tools/crowbar,/turf/simulated/floor/plating,/area)
+"aY" = (/obj/items/devices/analyzer,/turf/simulated/floor/plating,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaabacadadacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaeafagafahabaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabababababababaiabadadadadababajakalabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabamanaoanapabaqabananananarasasasatadaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabauavawaxayazaAazaBaBaBaBaCasasasasadaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabaDanaEaFaGabaqabananananabasasasasadaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabaHaIaFaJaKabaLabadadadadababajakalabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabababarabababaMabaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabaNauaOaOaPaQabadadadadababaFaraFabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaadaFaRaFaFabauaSafafafaOaeaOaOaTaFabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaadaUaVabaWabababadadadadabaXaFaFaYabaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabadadabababaaaaaaaaaaaaababababababaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

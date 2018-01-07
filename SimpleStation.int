@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1515341458
+DIR: code code\mob code\modules code\obj code\obj\items code\obj\machinery code\obj\structures icons sounds 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 511.1385
+WINDOW: code\defines.dm;code\mob\AI.dm;test.dmm;code\obj\structures\turfs.dm;code\obj\structures\structures.dm;code\Overlays.dm
+FILE: code\Overlays.dm
+*/
+// END_INTERNALS
